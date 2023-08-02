@@ -1,0 +1,7 @@
+As a web developer intern at Codsoft, I designed a landing page as my first task. The goal was to create a simple landing page. I analyzed the given HTML and CSS codes, ensuring a well-organized structure and responsive design.
+
+The HTML included a header with the company logo and navigation, and a hero section with a captivating banner and key benefits. CSS styles were implemented for fonts, colors, buttons, and interactive elements.
+
+JavaScript was used to add smooth animations, like the hamburger menu icons. Thorough testing ensured cross-browser compatibility and responsiveness. Accessibility features, like alt text for images, were incorporated.
+
+Working at Codsoft as an Intern has been a valuable learning experience. I am grateful for the mentorship and opportunities to contribute to projects. I look forward to sharing my work on GitHub and continuing to grow as a web developer.
